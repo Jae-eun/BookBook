@@ -23,7 +23,6 @@
 		CD820A9D20C41C9200809A7B /* 개인주의자선언.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD820A9C20C41C9200809A7B /* 개인주의자선언.jpg */; };
 		CD8F786520DC906200F623AF /* BookTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD8F786420DC906200F623AF /* BookTableViewCell.swift */; };
 		CD8F786720DCB63900F623AF /* EditBookViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD8F786620DCB63900F623AF /* EditBookViewController.swift */; };
-		CD8F786920DFE4A800F623AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD8F786820DFE4A800F623AF /* Main.storyboard */; };
 		CDC9B4D020D80B8000906A33 /* NanumSquareRoundB.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CDC9B4CE20D80B7A00906A33 /* NanumSquareRoundB.ttf */; };
 		CDC9B4D120D80B8000906A33 /* NanumSquareRoundEB.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CDC9B4CF20D80B7C00906A33 /* NanumSquareRoundEB.ttf */; };
 		CDC9B4D520D8288500906A33 /* open-book-2.png in Resources */ = {isa = PBXBuildFile; fileRef = CDC9B4D420D8288400906A33 /* open-book-2.png */; };
@@ -49,7 +48,6 @@
 		CD820A9C20C41C9200809A7B /* 개인주의자선언.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "개인주의자선언.jpg"; sourceTree = "<group>"; };
 		CD8F786420DC906200F623AF /* BookTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookTableViewCell.swift; sourceTree = "<group>"; };
 		CD8F786620DCB63900F623AF /* EditBookViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditBookViewController.swift; sourceTree = "<group>"; };
-		CD8F786820DFE4A800F623AF /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../Final2018S/Main.storyboard; sourceTree = "<group>"; };
 		CDC9B4CE20D80B7A00906A33 /* NanumSquareRoundB.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = NanumSquareRoundB.ttf; sourceTree = "<group>"; };
 		CDC9B4CF20D80B7C00906A33 /* NanumSquareRoundEB.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = NanumSquareRoundEB.ttf; sourceTree = "<group>"; };
 		CDC9B4D420D8288400906A33 /* open-book-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "open-book-2.png"; sourceTree = "<group>"; };
@@ -70,7 +68,6 @@
 		CD820A6620C380B400809A7B = {
 			isa = PBXGroup;
 			children = (
-				CD8F786820DFE4A800F623AF /* Main.storyboard */,
 				CD820A7120C380B400809A7B /* BookBook */,
 				CD820A7020C380B400809A7B /* Products */,
 			);
@@ -176,7 +173,6 @@
 				CD820A7D20C380B500809A7B /* LaunchScreen.storyboard in Resources */,
 				CD820A7A20C380B500809A7B /* Assets.xcassets in Resources */,
 				CD820A7820C380B400809A7B /* Main.storyboard in Resources */,
-				CD8F786920DFE4A800F623AF /* Main.storyboard in Resources */,
 				CD820A9520C3E3CA00809A7B /* logout.png in Resources */,
 				CDC9B4D020D80B8000906A33 /* NanumSquareRoundB.ttf in Resources */,
 			);
