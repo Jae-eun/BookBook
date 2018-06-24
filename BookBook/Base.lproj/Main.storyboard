@@ -707,7 +707,7 @@
                                 <rect key="frame" x="30" y="117" width="314" height="624"/>
                                 <color key="backgroundColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="GL8-Dc-b8d">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="GL8-Dc-b8d">
                                 <rect key="frame" x="68" y="354" width="239" height="303"/>
                                 <color key="backgroundColor" red="0.039215686270000001" green="0.23921568630000001" blue="0.38431372549999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="tintColor" red="0.039215686270000001" green="0.23921568630000001" blue="0.38431372549999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -834,7 +834,6 @@
                             <constraint firstItem="7Au-2k-vS0" firstAttribute="top" secondItem="OXn-Bw-tqV" secondAttribute="top" constant="64" id="8bm-aL-UzH"/>
                             <constraint firstItem="OXn-Bw-tqV" firstAttribute="bottom" secondItem="Xlg-h7-Cmm" secondAttribute="bottom" constant="37" id="Bbp-Nw-ROr"/>
                             <constraint firstItem="GL8-Dc-b8d" firstAttribute="centerX" secondItem="7Au-2k-vS0" secondAttribute="centerX" id="S1A-cm-JzF"/>
-                            <constraint firstItem="GL8-Dc-b8d" firstAttribute="trailing" secondItem="lAn-Jn-UGi" secondAttribute="trailing" id="UXJ-GQ-tVQ"/>
                             <constraint firstItem="7Au-2k-vS0" firstAttribute="trailing" secondItem="lAn-Jn-UGi" secondAttribute="trailing" id="bbu-65-Z70"/>
                             <constraint firstItem="GL8-Dc-b8d" firstAttribute="top" secondItem="7Au-2k-vS0" secondAttribute="bottom" constant="9" id="bi2-uE-Ddp"/>
                             <constraint firstItem="GL8-Dc-b8d" firstAttribute="centerX" secondItem="DII-I5-SGv" secondAttribute="centerX" id="fLE-0J-nUg"/>
